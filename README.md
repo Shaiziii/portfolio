@@ -4,4 +4,4 @@
 
 # Live Demo
 
- Check out live demo (https://github.com/Shaiziii/portfolio.git)
+ Check out live demo (https://shaiziii.github.io/myportfolio/)
